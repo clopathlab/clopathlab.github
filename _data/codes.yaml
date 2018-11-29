@@ -1,5 +1,10 @@
 ---
 
+- title: Plasticity in Auditory Cortex
+  hosting: ModelDB
+  link: https://senselab.med.yale.edu/ModelDB/showModel.cshtml?model=245879
+  publications: [-17]
+
 - title: Supervised learning in spiking neural networks with FORCE training
   hosting: ModelDB
   link: https://senselab.med.yale.edu/modeldb/ShowModel.cshtml?model=190565

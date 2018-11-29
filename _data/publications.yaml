@@ -1,4 +1,11 @@
 ---
+- title: 'Cerebellar learning using perturbations'
+  authors: Bouvier G, Aljadeff J, Clopath C, Bimbard C, Ranft J, Blot A, Nadal J-P, Brunel N, Hakim V, Barbour B  
+  journal: eLife, 2018, doi:10.7554/eLife.31599
+  id: -21
+  year: 2018
+  link: https://elifesciences.org/articles/31599
+
 - title: 'Continual Reinforcement Learning with Complex Synapses'
   authors: Kaplanis C, Shanahan M, Clopath C
   journal:  International Conference on Machine Learning, 2018,  PMLR 80:2497-2506
