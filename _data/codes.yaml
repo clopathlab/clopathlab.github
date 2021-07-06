@@ -1,4 +1,63 @@
 ---
+- title: The functional role of sequentially neuromodulated synaptic plasticity in behavioural learning
+  hosting: GitHub
+  link: https://github.com/gawygawy/snPlast
+  publications: [-42]
+
+- title: Learning compositional sequences with multiple time scales through a hierarchical network of spiking neurons
+  hosting: GitHub
+  link: https://github.com/amaes-neuro/compositional-sequences
+  publications: [-41]
+
+- title: Neural manifold under plasticity in a goal driven learning behaviour
+  hosting: GitHub
+  link: https://github.com/babaf/neural-manifold-and-plasticity
+  publications: [-39]
+
+- title: Theory of neuronal perturbome in cortical networks
+  hosting: ModelDB
+  link: https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=262045#tabs-1
+  publications: [-37]
+
+- title: The interplay between somatic and dendritic inhibition promotes the emergence and stabilization of place fields
+  hosting: ModelDB
+  link: https://senselab.med.yale.edu/modeldb/ShowModel?model=266535#tabs-1
+  publications: [-35]
+
+- title: Population coupling predicts the plasticity of stimulus responses in cortical circuits
+  hosting: GitHub
+  link: https://github.com/yannaodh/sweeney_clopath_2020
+  publications: [-33]
+
+- title: Patterned perturbation of inhibition can reveal the dynamical structure of neural processing
+  hosting: ModelDB
+  link: https://senselab.med.yale.edu/ModelDB/ShowModel?model=259620#tabs-1
+  publications: [-32]
+
+- title: Learning spatiotemporal sequences using a recurrent spiking network that discretizes time
+  hosting: ModelDB
+  link: http://modeldb.yale.edu/257609
+  publications: [-31]
+
+- title: Audio-visual experience strengthens multisensory assemblies in adult mouse visual cortex
+  hosting: GitHub
+  link: https://github.com/yannaodh/multimodal_2019
+  publications: [-27]
+
+- title: Inhibitory microcircuits for top-down plasticity of sensory representations
+  hosting: GitHub
+  link: https://github.com/k47h4/interneuron_circuits_plasticity
+  publications: [-26]
+
+- title: A diversity of interneurons and Hebbian plasticity facilitate rapid compressible learning in the hippocampus
+  hosting: ModelDB
+  link: https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=243447#tabs-1
+  publications: [-24]
+
+- title: Inhibitory neuron plasticity as a mechanism for ocular dominance plasticity
+  hosting: ModelDB
+  link: https://senselab.med.yale.edu/modeldb/ShowModel.cshtml?model=249706#tabs-1
+  publications: [-22]
 
 - title: Plasticity in Auditory Cortex
   hosting: ModelDB
