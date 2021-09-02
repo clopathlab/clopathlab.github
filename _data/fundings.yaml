@@ -1,4 +1,12 @@
 ---
+- title: Simons Foundation
+  link: https://www.simonsfoundation.org/
+  image: simons.svg
+
+- title: NIH (National Institutes of Health)
+  link: https://www.nih.gov/
+  image: nih.svg
+
 - title: EPSRC (Engineering and Physical Sciences Research Council)
   link: https://www.epsrc.ac.uk/
   image: esprc.svg

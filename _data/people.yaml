@@ -2,51 +2,27 @@
 - name: Claudia Clopath 
   position: Principal Investigator 
   image: claudia_cropped.jpg
-  link: http://www.bg.ic.ac.uk/research/c.clopath/members/claudia_clopath
+  link: https://cclopath.bg-research.cc.ic.ac.uk/members/claudia_clopath
 
-- name: Wilten Nicola 
-  position: Post-doc 
-  image: wilten_cropped.jpg
-  link: http://www.imperial.ac.uk/people/w.nicola
-
-- name: Katharina Wilmes
+- name: Sadra Sadeh
   position: Post-doc
-  image: katharina_cropped.jpg
-  link: http://www.imperial.ac.uk/people/k.wilmes
+  image: Sadra.png
 
-- name: Johnatan (Yonatan) Aljadeff 
+- name: Loreen Hertag
   position: Post-doc
-  image: yonatan.jpg 
-  link: https://aljadeff.wordpress.com/
+  image: Loreen.png
 
-- name: Sara Zannone
-  position: PhD Student 
-  image: Sara_cropped.jpg
+- name: Júlia Gallinaro
+  position: Post-doc
+  image: julia.png
 
-- name: Cher Bachar 
-  position: PhD Student, co-supervised by Vincenzo De Paola and Anil Bharath 
-  image: Cher_cropped.jpg 
-
-- name: Victor Pedrosa 
-  position: PhD Student 
-  image: Victor_cropped.jpg
-  link: http://www.imperial.ac.uk/people/v.pedrosa15
-
-- name: Darije Custovic 
-  position: PhD Student, co-supervised by Adam Hampshire 
-  image: johndoe.png 
-
-- name: Weerts Lotte
-  position: PhD Student, co-supervised by Dan Goodman
-  image: lotte.jpg
+- name: Ian Cone
+  position: Post-doc
+  image: johndoe.png
 
 - name: Tunvez Boulic
   position: PhD Student, co-supervised by Paul Chadderton
   image: tunvez_cropped.jpg
-
-- name: Christos Kaplanis
-  position: PhD Student, co-supervised by Murray Shanahan
-  image: christos_cropped.jpg
 
 - name: Amadeus Maes 
   position: PhD Student, co-supervised by Mauricio Barahona
@@ -60,9 +36,29 @@
   position: PhD Student
   image: douglas_cropped.png
 
-- name: Grace Angwy
-  position: MRes Student, co-supervised by Andrei Kozlov
+- name: Klara Kaleb
+  position: PhD Student
+  image: klara_kaleb.jpg
+
+- name: Grace Ang
+  position: PhD Student, co-supervised by Andrei Kozlov
   image: grace.jpg
+
+- name: Tudor Berariu
+  position: PhD Student, co-supervised by Răzvan Pașcanu
+  image: tudor.jpg
+
+- name: Sebastian Lee
+  position: PhD Student
+  image: sebastian_cropped.jpg
+
+- name: Joanna Chang
+  position: PhD Student
+  image: joanna_cropped.jpeg
+
+- name: Geoffroy Delamare
+  position: PhD Student
+  image: geoffroy.jpg
 
 
 

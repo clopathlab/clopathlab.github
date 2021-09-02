@@ -1,7 +1,168 @@
 ---
+- title: 'Network-centered homeostasis through inhibition maintains hippocampal spatial map and cortical circuit function'
+  authors: Kaleb K, Pedrosa V, Clopath C
+  journal: Cell Reports, 2021, doi/10.1016/j.celrep.2021.109577
+  id: -43
+  year: 2021
+  link: https://www.sciencedirect.com/science/article/pii/S2211124721010111
+
+- title: 'The functional role of sequentially neuromodulated synaptic plasticity in behavioural learning'
+  authors: Ang GWY, Tang CS, Hay YA, Zannone S, Paulsen O, Clopath C
+  journal: Plos Comp. Biol., 2021, doi/10.1371/journal.pcbi.1009017
+  id: -42
+  year: 2021
+  link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009017
+
+- title: 'Learning compositional sequences with multiple time scales through a hierarchical network of spiking neurons'
+  authors: Maes A, Barahona M, Clopath C
+  journal: Plos Comp. Biol., 2021, doi/10.1371/journal.pcbi.1008866
+  id: -41
+  year: 2021
+  link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008866
+
+- title: 'Visualizing a joint future of neuroscience and neuromorphic engineering'
+  authors: Zenke F, et al.
+  journal: Neuron, 2021, doi/10.1016/j.neuron.2021.01.009
+  id: -40
+  year: 2021
+  link: https://www.sciencedirect.com/science/article/pii/S089662732100009X
+
+- title: 'Neural manifold under plasticity in a goal driven learning behaviour'
+  authors: Feulner B, Clopath C
+  journal: Plos Comp. Biol., 2021, doi/10.1371/journal.pcbi.1008621
+  id: -39
+  year: 2021
+  link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008621
+
+- title: 'Inhibitory stabilization and cortical computation'
+  authors: Sadeh S, Clopath C
+  journal: Nature Reviews Neuroscience, 2020, doi:10.1038/s41583-020-00390-z
+  id: -38
+  year: 2020
+  link: https://www.nature.com/articles/s41583-020-00390-z
+
+- title: 'Theory of neuronal perturbome in cortical networks'
+  authors: Sadeh S, Clopath C
+  journal: Proceedings of the National Academy of Sciences, 2020, doi:10.1073/pnas.2004568117
+  id: -37
+  year: 2020
+  link: https://www.pnas.org/content/117/43/26966
+
+- title: 'Interneuron-specific plasticity at parvalbumin and somatostatin inhibitory synapses onto CA1 pyramidal neurons shapes hippocampal output'
+  authors: Udakis M, Pedrosa V, Chamberlain S, Clopath C, Mellor J
+  journal: Nature Communications, 2020, doi:10.1038/s41467-020-18074-8
+  id: -36
+  year: 2020
+  link: https://www.nature.com/articles/s41467-020-18074-8
+
+- title: 'The interplay between somatic and dendritic inhibition promotes the emergence and stabilization of place fields'
+  authors: Pedrosa V, Clopath C
+  journal: Plos Comp. Biol., 2020, doi:10.1371/journal.pcbi.1007955
+  id: -35
+  year: 2020
+  link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007955
+
+- title: 'AI for social good: unlocking the opportunity for positive impact'
+  authors: Tomašev N et al.
+  journal: Nature Communications, 2020, doi:10.1038/s41467-020-15871-z
+  id: -34
+  year: 2020
+  link: https://www.nature.com/articles/s41467-020-15871-z
+
+- title: 'Population coupling predicts the plasticity of stimulus responses in cortical circuits'
+  authors: Sweeney Y, Clopath C
+  journal: eLife, 2020, doi:10.7554/eLife.56053
+  id: -33
+  year: 2020
+  link: https://elifesciences.org/articles/56053
+
+- title: 'Patterned perturbation of inhibition can reveal the dynamical structure of neural processing'
+  authors: Sadeh S, Clopath C
+  journal: eLife, 2020, doi:10.7554/eLife.52757
+  id: -32
+  year: 2020
+  link: https://elifesciences.org/articles/52757
+
+- title: 'Learning spatiotemporal signals using a recurrent spiking network that discretizes time'
+  authors: Maes A, Barahona M, Clopath C
+  journal: Plos Comp. Biol., 2020, doi:10.1371/journal.pcbi.1007606
+  id: -31
+  year: 2020
+  link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007606
+
+- title: 'Deep Reinforcement Learning for Subpixel Neural Tracking'
+  authors: Dai T, Dubois M, Arulkamaran K, Campbell J, Bass C, Billot B, Uslu F, De Paola V, Clopath C, Bharath A
+  journal: Proceedings of The 2nd International Conference on Medical Imaging with Deep Learning, 2019, PMLR 102:130-150
+  id: -30
+  year: 2019
+  link: http://proceedings.mlr.press/v102/dai19a.html
+
+- title: 'Image Synthesis with a Convolutional Capsule Generative Adversarial Network'
+  authors: Bass C, Dai T, Billot B, Arulkamaran K, Creswell A, Clopath C, De Paola V, Bharath A
+  journal: Proceedings of The 2nd International Conference on Medical Imaging with Deep Learning, 2019, PMLR 102:39-62
+  id: -29
+  year: 2019
+  link: http://proceedings.mlr.press/v102/bass19a.html
+
+- title: 'Unifying Long-Term Plasticity Rules for Excitatory Synapses by Modeling Dendrites of Cortical Pyramidal Neurons'
+  authors: Ebner C, Clopath C, Jedlicka P, Cuntz H
+  journal: Cell Reports, 2019, doi:10.1016/j.celrep.2019.11.068
+  id: -28
+  year: 2019
+  link: https://doi.org/10.1016/j.celrep.2019.11.068
+
+- title: 'Audio-visual experience strengthens multisensory assemblies in adult mouse visual cortex'
+  authors: Knöpfel T, Sweeney Y, Radulescu C, Zabouri N, Doostdar N, Clopath C, Barnes S
+  journal: Nature Communications, 2019, doi:10.1038/s41467-019-13607-2
+  id: -27
+  year: 2019
+  link: https://www.nature.com/articles/s41467-019-13607-2
+
+- title: 'Inhibitory microcircuits for top-down plasticity of sensory representations'
+  authors: Wilmes K, Clopath C
+  journal: Nature Communications, 2019, doi:10.1038/s41467-019-12972-2
+  id: -26
+  year: 2019
+  link: https://www.nature.com/articles/s41467-019-12972-2
+
+- title: 'A deep learning framework for neuroscience'
+  authors: Richards B et al.
+  journal: Nature Neuroscience, 2019, doi:10.1038/s41593-019-0520-2
+  id: -25
+  year: 2019
+  link: https://www.nature.com/articles/s41593-019-0520-2?utm_source=dlvr.it&utm_medium=twitter
+
+- title: 'A diversity of interneurons and Hebbian plasticity facilitate rapid compressible learning in the hippocampus'
+  authors: Nicola W, Clopath C
+  journal: Nature Neuroscience, 2019, doi:10.1038/s41593-019-0415-2
+  id: -24
+  year: 2019
+  link: https://www.nature.com/articles/s41593-019-0415-2
+
+- title: ' Policy Consolidation for Continual Reinforcement Learning'
+  authors: Kaplanis C, Shanahan M, Clopath C
+  journal:  International Conference on Machine Learning, 2019, PMLR 97:3242-3251
+  id: -23
+  year: 2019
+  link: http://proceedings.mlr.press/v97/kaplanis19a.html
+
+- title: 'Synaptic plasticity onto inhibitory neurons as a mechanism for ocular dominance plasticity'
+  authors: Bono J, Clopath C
+  journal: Plos Comp. Biol., 2019, doi:10.1371/journal.pcbi.1006834
+  id: -22
+  year: 2019
+  link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006834
+
+- title: 'Cerebellar learning using perturbations'
+  authors: Bouvier G, Aljadeff J, Clopath C, Bimbard C, Ranft J, Blot A, Nadal J-P, Brunel N, Hakim V, Barbour B  
+  journal: eLife, 2018, doi:10.7554/eLife.31599
+  id: -21
+  year: 2018
+  link: https://elifesciences.org/articles/31599
+
 - title: 'Continual Reinforcement Learning with Complex Synapses'
   authors: Kaplanis C, Shanahan M, Clopath C
-  journal:  International Conference on Machine Learning, 2018,  PMLR 80:2497-2506
+  journal:  International Conference on Machine Learning, 2018, PMLR 80:2497-2506
   id: -20
   year: 2018
   link: http://proceedings.mlr.press/v80/kaplanis18a.html
@@ -21,7 +182,7 @@
   link: https://www.nature.com/articles/s41598-018-27393-2
 
 - title: ON-OFF receptive fields in auditory cortex diverge during development and contribute to directional sweep selectivity
-  authors: Sollini J*, Chapuis G*, Clopath C#, Chadderton P#
+  authors: Sollini J, Chapuis G, Clopath C*, Chadderton P*
   journal: Nature Communications, 2018, doi:10.1038/s41467-018-04548-3
   id: -17
   year: 2018
@@ -173,6 +334,7 @@
   journal: Journal of Neuroscience, 2014, 34(21):7203-7215
   link: http://www.jneurosci.org/content/34/21/7203.short
   id: 3
+  year: 2014
 
 - title: "Long Term Plasticity, Biophysical Models."
   authors: Clopath C
@@ -238,8 +400,8 @@
   year: 2010
 
 - title:  "Tag-Trigger-Consolidation: A model of early and late long-term potentation and depression."
-  authors:  Clopath C*, Ziegler L*, Vasilaki E, Buesing L and Gerstner W
-  journal: PLoS Computational Biolology, 2008, 4, e1000248
+  authors:  Clopath C, Ziegler L, Vasilaki E, Buesing L and Gerstner W
+  journal: PLoS Comp. Biol., 2008, 4, e1000248
   link: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000248
   id: 13
   year: 2008

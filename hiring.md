@@ -13,7 +13,7 @@ spontaneous applications.
 
 
 ## Requirements
-The Computational Neuroscience Laboratory, headed by Dr. Claudia Clopath, is looking for talented Master, PhD students or Postdocs, interested in working in the field of computational 
+The Computational Neuroscience Laboratory, headed by Prof. Claudia Clopath, is looking for talented Master, PhD students or Postdocs, interested in working in the field of computational 
 neuroscience, specifically addressing questions of learning and memory. <!--The PhD position is fully funded, and will start in the autumn 2013 (date is flexible). -->
 The 
 perfect candidate has a strong mathematical, physical or engineering background (or equivalent), and a keen interest in biological and neural systems. Demonstrated 
