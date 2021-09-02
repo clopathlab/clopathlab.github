@@ -30,8 +30,9 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://www.bg.ic.ac.uk/research/c.clopath/
-BASE_PATH: http://www.bg.ic.ac.uk/research/c.clopath/
+production_url : https://cclopath.bg-research.cc.ic.ac.uk/
+BASE_PATH: https://cclopath.bg-research.cc.ic.ac.uk/
+#http://www.bg.ic.ac.uk/research/c.clopath/
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :

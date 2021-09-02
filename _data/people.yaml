@@ -2,11 +2,7 @@
 - name: Claudia Clopath 
   position: Principal Investigator 
   image: claudia_cropped.jpg
-  link: http://www.bg.ic.ac.uk/research/c.clopath/members/claudia_clopath
-
-- name: Vezha Boboeva
-  position: Post-doc
-  image: vezha.png
+  link: https://cclopath.bg-research.cc.ic.ac.uk/members/claudia_clopath
 
 - name: Sadra Sadeh
   position: Post-doc
@@ -20,13 +16,9 @@
   position: Post-doc
   image: julia.png
 
-- name: Darije Custovic 
-  position: PhD Student, co-supervised by Adam Hampshire 
-  image: Darije.jpg 
-
-- name: Lotte Weerts
-  position: PhD Student, co-supervised by Dan Goodman
-  image: lotte.jpg
+- name: Ian Cone
+  position: Post-doc
+  image: johndoe.png
 
 - name: Tunvez Boulic
   position: PhD Student, co-supervised by Paul Chadderton
